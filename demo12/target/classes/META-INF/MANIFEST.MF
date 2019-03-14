@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo12
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 761450
+Implementation-Vendor-Id: com.example1
+Build-Jdk: 1.8.0_112
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo12
+Created-By: Maven Integration for Eclipse
+
