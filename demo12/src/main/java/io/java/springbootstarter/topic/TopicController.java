@@ -26,6 +26,9 @@ public class TopicController {
 	public List getTopic(@PathVariable String id) {
 		return (List)topicservice.getTopic(id);
 	}
+	
+	
+	
 	@RequestMapping(method=RequestMethod.POST,value="api/topics")
 	public void addTopic(@RequestBody Topic topic) {
 		topicservice.addTopic(topic);
